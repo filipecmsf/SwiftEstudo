@@ -1,7 +1,6 @@
 ### Roteiro
 
-Este roteiro foi pensado em ser um guia nos estudos iniciais e futuramente servir de
-git, swift e swiftuI.
+Este roteiro foi pensado em ser um guia nos estudos sobre git, swift e swiftuI.
 
 ### <p id="indice">Indice</p>
 Esse roteiro foi dividido da seguinte forma:
