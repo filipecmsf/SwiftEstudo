@@ -1,9 +1,8 @@
-### Roteiro
+### Manifesto
 
-Este roteiro foi pensado em ser um guia nos estudos sobre git, swift e swiftuI.
+Este roteiro foi pensado em ser um guia nos estudos sobre git, swift, swiftUI e outros tópicos relacionados. Passando por conceitos de todos os níveis, que serão documentados aos poucos.
 
 ### <p id="indice">Indice</p>
-Esse roteiro foi dividido da seguinte forma:
 
 1. <a href="#git">GIT</a>
     - <a href="#branch">Branch</a>
@@ -35,9 +34,11 @@ Esse roteiro foi dividido da seguinte forma:
     - <a href="#propertyWrappers">Property Wrappers</a>
     - <a href="#combine">Combine</a>
     - <a href="#componentesSwiftUI">Componentes de SwiftUI</a>
+1. <a href="#referencia">Sites de referência</a>
 
 ## <p id="git">GIT</p>
-O git é o sistema de controle de versão gratuita mais utilizado atualmente. É utilizado para salvar, restaura e compartilhar entre os desenvolvedores todas as alterações de código.
+O git é o sistema de controle de versão gratuita mais utilizado atualmente. É utilizado para salvar, restaura e compartilhar entre os desenvolvedores, todas as alterações de código do projeto que estão trabalhando junto.
+
 ### <p id="branch">Branch</p>
 
 Todo repositório de git inicia com uma branch principal chamada __MASTER__. As branches são criadas para criar uma cópia do código em um determinado ponto do tempo. Desta forma é possível desenvolver a funcionalidade e ir fazendo os commits (<a href="#commit">commit</a>) sem alterar o estado estável da __MASTER__, desta forma outros desenvolvedores consegue criar branchs para trabalhar em paralelo em outras funcionalidades sem se deparar com códigos inacabados, com bugs de desenvolvimento ou qualquer outra surpresa.
@@ -256,5 +257,11 @@ Ao criar o repositório para um aplicativo de receitas. A tarefa de criar a tela
 ### <p id="componentesSwiftUI">Componentes de SwiftUI</p>
 
 > não documentado
+
+<a href="#indice">↑ indices </a>
+
+## <p id="referencia">Sites de referência</p>
+
+Introdução a GIT (https://phoenixnap.com/kb/how-to-use-git)
 
 <a href="#indice">↑ indices </a>
